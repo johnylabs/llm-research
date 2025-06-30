@@ -1,0 +1,27 @@
+opyright © 2025 Jet Baby
+
+This code is proprietary and the intellectual property of Jet Baby.
+
+You are permitted to:
+- View and learn from this repository for educational or personal use only.
+
+You are NOT permitted to:
+- Copy, modify, redistribute, or use this code in commercial or non-commercial projects
+  without **explicit written permission**.
+
+For licensing or collaboration, contact: jet.baby@example.com
+
+
+------------------------------
+Third-Party Components Used
+------------------------------
+
+This project may include or build on open-source tools released under separate licenses.
+Their licenses are listed below for clarity.
+
+▶ llama.cpp (MIT License)https://github.com/ggerganov/llama.cpp
+
+MIT License:
+
+
+▶ Other tools used:
