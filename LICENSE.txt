@@ -1,4 +1,4 @@
-opyright © 2025 Jet Baby
+Copyright © 2025 Jet Baby
 
 This code is proprietary and the intellectual property of Jet Baby.
 
@@ -9,7 +9,7 @@ You are NOT permitted to:
 - Copy, modify, redistribute, or use this code in commercial or non-commercial projects
   without **explicit written permission**.
 
-For licensing or collaboration, contact: jet.baby@example.com
+For licensing or collaboration, contact: info@thread.blue
 
 
 ------------------------------
