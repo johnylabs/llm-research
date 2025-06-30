@@ -1,4 +1,4 @@
-# Sarah-ANN (2018–2019)
+# Sarah-ANN (2018–now)
 > An early AI concept project focused on voice response and adaptive logic.
 
 Built as a prototype neural network design for interpreting speech and generating data-guided responses.
