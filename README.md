@@ -1,7 +1,7 @@
 # SARAH-ANN Core (Public Layer)
 *Est. 2018 — A Modular AI Framework for Human-Aligned Intelligence*
 
-**SARAH-ANN** stands for **Self-Aligning Response Architecture for Humanity – Adaptive Neural Nexus**.
+**SARAH-ANN** stands for **Self-Aligning Response Architecture for Humanity – Adaptive Neural Network**.
 
 SARAH-ANN Core began as an experimental voice-response project in 2018, centered on adaptive logic, ethical interaction, and automation.
 
