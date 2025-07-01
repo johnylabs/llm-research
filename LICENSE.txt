@@ -6,22 +6,31 @@ You are permitted to:
 - View and learn from this repository for educational or personal use only.
 
 You are NOT permitted to:
-- Copy, modify, redistribute, or use this code in commercial or non-commercial projects
+- Copy, modify, redistribute, or use this code in commercial or non-commercial projects  
   without **explicit written permission**.
 
 For licensing or collaboration, contact: info@thread.blue
 
+---
 
-------------------------------
-Third-Party Components Used
-------------------------------
+## SARAH-ANN Personal Intelligence License (SPIL-1.0)
 
-This project may include or build on open-source tools released under separate licenses.
+This project is licensed under the **SARAH-ANN Personal Intelligence License (SPIL-1.0)**. It prohibits:
+
+- Commercial use  
+- Surveillance deployment  
+- Reproduction in military or coercive contexts  
+- Use in datasets that power systems violating privacy or bodily autonomy
+
+Educational forks for personal use are allowed with attribution.
+
+---
+
+## Third-Party Components Used
+
+This project may include or build on open-source tools released under separate licenses.  
 Their licenses are listed below for clarity.
 
-▶ llama.cpp (MIT License)https://github.com/ggerganov/llama.cpp
+▶ **llama.cpp** – [MIT License](https://github.com/ggerganov/llama.cpp)
 
-MIT License:
-
-
-▶ Other tools used:
+▶ **Other tools used**: ..
