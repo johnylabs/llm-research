@@ -5,6 +5,8 @@ This code is proprietary and the intellectual property of Jet Baby.
 You are permitted to:
 - View and learn from this repository for educational or personal use only.
 
+The term "personal use" in this license applies to **third-party users only**. The original author retains **full commercial and private rights** over the system and its evolution.
+
 You are NOT permitted to:
 - Copy, modify, redistribute, or use this code in commercial or non-commercial projects  
   without **explicit written permission**.
