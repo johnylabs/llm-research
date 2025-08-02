@@ -1,60 +1,58 @@
-# SARAH-ANN Core (Public Layer)
-*Est. 2018 — A Modular AI Framework for Human-Aligned Intelligence*
+# SARAH-ANN Core
 
-**SARAH-ANN** stands for **Self-Aligning Response Architecture for Humanity – Adaptive Neural Network**.
+### Self-Aligning Response Architecture for Humanity – Adaptive Neural Network
 
-SARAH-ANN Core began as an experimental voice-response project in 2018, centered on adaptive logic, ethical interaction, and automation.
-
-It has since matured into a **modular public LLM architecture** — built for transparency, deployability, and ethical AI design.
+**Est. 2018** — Modular AI framework for ethical, local, human-aligned LLM systems.
 
 ---
 
-## 🌐 Project Scope
+## 🧠 About the Project
 
-SARAH-ANN Core is intended for:
-- Human-centric AI interface design  
-- Modular LLM integration  
-- Ethical and personal-use AI development  
-- Long-term deployment in aligned environments
+SARAH-ANN Core is a personal-use AI framework designed for:
 
----
+- Human-aligned AI interface design
+- Modular integration with open-source LLMs
+- Ethical and transparent deployment
+- Decentralized, local-first autonomy
 
-## 🔎 Scope Clarification
+## 📁 Repo Contents
 
-This repository contains:
-- Public logic  
-- Modular architecture  
-- Interface framework  
-- Deployment guides  
-- System interaction templates
+- `architecture/`: Modular code layout (planned)
+- `interface/`: Frontend components
+- `deployment/`: Local setup guides
+- `templates/`: JSON and prompt scaffolds
 
-> ✴️ Any other systems, models, or configurations that interact with or extend this framework — beyond what is disclosed here — are **beyond the scope** of this repository.
+> 🔐 *This repo contains only public components. Extensions beyond this scope are private.*
 
 ---
 
-## 🧭 Guiding Principles
+## 💡 Guiding Principles
 
-SARAH-ANN Core adheres to:
-- **Consent-first AI interaction**  
-- **Data minimization and autonomy**  
-- **Opposition to surveillance and forced data capture**  
-- **Decentralized ethical frameworks** over corporate or state-controlled directives
-
-It is not designed for integration into any system that:
-- Engages in social scoring  
-- Violates privacy by default  
-- Weaponizes AI against human interests
+- Consent-first AI interaction
+- Local processing > cloud dependency
+- No data monetization
+- No integration with surveillance models
+- Designed for personal freedom, not control
 
 ---
 
-## 📄 License
+## 📜 License
 
-See [`LICENSE.md`](./LICENSE.md) for terms.
-
-This project is provided under the **SARAH-ANN Personal Intelligence License (SPIL-1.0)** — a non-commercial, educational-use license prohibiting redistribution, repackaging, or reproduction for surveillance, commercial, or military applications.
+**SARAH-ANN Personal Intelligence License (SPIL-1.0)**  
+*Strictly non-commercial and anti-surveillance. Full terms in [LICENSE.md](./LICENSE.md).*
 
 ---
 
 ## ✍️ Author’s Note
 
-This project represents one possible future — one that favors the individual, respects memory, and resists centralized control. What it becomes will depend on what we build from it, and what we refuse to forget.
+> “This project represents one possible future — one that favors the individual, respects memory, and resists centralized control. What it becomes will depend on what we build from it, and what we refuse to forget.”
+
+---
+
+## 🚧 Roadmap (2025–2026)
+
+- [ ] Add example architecture diagrams
+- [ ] Publish default prompt strategy
+- [ ] Dockerized deployment for localhost use
+- [ ] GPU config templates (RTX 3090, etc.)
+- [ ] Integration with KoboldCPP, LM Studio
