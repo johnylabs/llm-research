@@ -42,7 +42,7 @@ SARAH-ANN Core is a **personal-use AI framework** designed for:
 ## License
 **SARAH-ANN Personal Intelligence License (SPIL-1.0)**  
 Strictly non-commercial and anti-surveillance.  
-Full terms in [LICENSE.md](LICENSE.md).
+Full terms in [LICENSE.md](LICENSE.txt).
 
 ---
 
