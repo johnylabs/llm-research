@@ -1,58 +1,60 @@
-# SARAH-ANN Core
-
-### Self-Aligning Response Architecture for Humanity – Adaptive Neural Network
-
-**Est. 2018** — Modular AI framework for ethical, local, human-aligned LLM systems.
+# johnylabs — SARAH-ANN Core
+**Self-Aligning Response Architecture for Humanity — Adaptive Neural Network**  
+Est. 2018 — Modular AI framework for ethical, local, human-aligned LLM systems.
 
 ---
 
-## 🧠 About the Project
+## Recent Updates
+- **2025-08-09** — Updated roadmap, added GPU config templates
+- **2025-07-20** — Linked integration notes for KoboldCPP and LM Studio
+- **2025-07-05** — Reviewed and updated SPIL-1.0 license terms
 
-SARAH-ANN Core is a personal-use AI framework designed for:
+---
 
+## About the Project
+SARAH-ANN Core is a **personal-use AI framework** designed for:
 - Human-aligned AI interface design
 - Modular integration with open-source LLMs
 - Ethical and transparent deployment
 - Decentralized, local-first autonomy
 
-## 📁 Repo Contents
+---
 
-- `architecture/`: Modular code layout (planned)
-- `interface/`: Frontend components
-- `deployment/`: Local setup guides
-- `templates/`: JSON and prompt scaffolds
+## Repo Contents
+- `architecture/` — Modular code layout *(planned)*
+- `interface/` — Frontend components
+- `deployment/` — Local setup guides
+- `templates/` — JSON and prompt scaffolds
 
-> 🔐 *This repo contains only public components. Extensions beyond this scope are private.*
+> 🔐 **Note:** This repo contains only public components. Extensions beyond this scope are private.
 
 ---
 
-## 💡 Guiding Principles
-
-- Consent-first AI interaction
-- Local processing > cloud dependency
-- No data monetization
-- No integration with surveillance models
-- Designed for personal freedom, not control
+## Guiding Principles
+1. Consent-first AI interaction
+2. Local processing > cloud dependency
+3. No data monetization
+4. No integration with surveillance models
+5. Designed for personal freedom, not control
 
 ---
 
-## 📜 License
-
+## License
 **SARAH-ANN Personal Intelligence License (SPIL-1.0)**  
-*Strictly non-commercial and anti-surveillance. Full terms in [LICENSE.md](./LICENSE.md).*
+Strictly non-commercial and anti-surveillance.  
+Full terms in [LICENSE.md](LICENSE.md).
 
 ---
 
-## ✍️ Author’s Note
-
-> “This project represents one possible future — one that favors the individual, respects memory, and resists centralized control. What it becomes will depend on what we build from it, and what we refuse to forget.”
+## Roadmap (2025–2026)
+- Add example architecture diagrams
+- Publish default prompt strategy
+- Dockerized deployment for localhost use
+- GPU config templates (RTX 3090, etc.)
+- Integration with KoboldCPP, LM Studio
 
 ---
 
-## 🚧 Roadmap (2025–2026)
-
-- [ ] Add example architecture diagrams
-- [ ] Publish default prompt strategy
-- [ ] Dockerized deployment for localhost use
-- [ ] GPU config templates (RTX 3090, etc.)
-- [ ] Integration with KoboldCPP, LM Studio
+## Related Projects
+- [Home SOC Lab — Wazuh / Proxmox](https://github.com/johnylabs/home-soc-lab-flump-wazuh)
+- [LLM Research](https://github.com/johnylabs/llm-research)
