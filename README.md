@@ -56,5 +56,5 @@ Full terms in [LICENSE.md](LICENSE.md).
 ---
 
 ## Related Projects
-- [Home SOC Lab — Wazuh / Proxmox](https://github.com/johnylabs/home-soc-lab-flump-wazuh)
+- [Home SOC Lab — Wazuh / Proxmox](https://github.com/johnylabs/home-soc-lab-splunk-wazuh)
 - [LLM Research](https://github.com/johnylabs/llm-research)
